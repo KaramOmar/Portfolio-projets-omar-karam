@@ -5,8 +5,8 @@ Je présente ici un ensemble de 10 projets réalisés en Python, Java, SQL, C, O
 ---
 
 ## 1. Ai_projet_Football_QRT_DATA
-**Langage :** Python  
-**Bibliothèques :** Pandas, Scikit-learn, Matplotlib, NumPy  
+**Langage :** Python (notebook jupyter) 
+**Bibliothèques :** Pandas, Scikit-learn, Matplotlib, NumPy ...
 
 **Description :**  
 Analyse des données de football dans le cadre du QRT Data Challenge.  
@@ -106,7 +106,7 @@ Jeu classique du serpent (Snake) codé avec Pygame.
 ---
 
 ## 10. Structures_des_donnes
-**Langages :** Python, C  
+**Langages :** C  
 
 **Description :**  
 Implémentation de plusieurs structures de données avancées.  
