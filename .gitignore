@@ -1,0 +1,94 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.VENV/
+.venv/
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+/build/
+out/
+
+# === C ===
+*.o
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# === OCaml ===
+*.cm*
+*.annot
+*.o
+*.d
+*.spit
+*.run
+*.byte
+*.native
+
+# === Coq ===
+*.vo
+*.vok
+*.vos
+*.glob
+*.aux
+*.v.d
+*.crashcoqide
+
+# === HTML/CSS/JS ===
+node_modules/
+dist/
+build/
+*.log
+
+# === SQL ===
+*.sqlite
+*.db
+
+# === IDEs / éditeurs ===
+# VSCode
+.vscode/
+# IntelliJ / IDEA
+.idea/
+# Eclipse
+.project
+.classpath
+.settings/
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+
+# === Systèmes Unix / macOS ===
+.DS_Store
+*.swp
+*~
+
+# === Logs / temporaires ===
+*.log
+*.tmp
+*.bak
+
+# === Autres archives ===
+*.zip
+*.tar.gz
+*.rar
+*.7z
