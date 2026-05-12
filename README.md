@@ -117,6 +117,27 @@ Projet réseau simulant plusieurs versions de protocoles d’émission/réceptio
 
 ---
 
+## 12. Spotify Recommender System
+
+**Langage :** Python
+**Bibliothèques** : Pandas, Scikit-learn, NumPy, Matplotlib, seaborn
+
+Système de recommandation de musiques basé sur les caractéristiques audio des morceaux Spotify.
+
+- Nettoyage et préparation d’un dataset Spotify
+- Sélection de features audio (danceability, energy, tempo, etc.)
+- Normalisation des données
+- Calcul de similarité avec cosine similarity
+- Système de recommandation basé sur la similarité entre chansons
+- Filtrage par genre musical
+- Classement des recommandations avec score combiné (similarité + popularité)
+- Analyse et visualisation des données dans un notebook Jupyter
+
+**Objectif** : simuler un système de recommandation type Spotify en utilisant une approche de machine learning non supervisée.
+
+
+---
+
 ### Comment exécuter chaque projet :
 1. Clonez le projet avec `git clone <url-du-repository>`
 2. Suivez les instructions spécifiques dans chaque dossier de projet (lien vers le README propre au projet si nécessaire).
