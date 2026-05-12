@@ -1,6 +1,6 @@
 # Projets d'Omar Karam
 
-Je présente ici un ensemble de 11 projets réalisés en Python, Java, SQL, C, OCaml, Coq, HTML/CSS/JS. Ces projets couvrent divers domaines comme l'analyse de données, l'intelligence artificielle, les algorithmes, la cryptographie, les interfaces homme-machine, et bien plus encore.
+Je présente ici un ensemble de 12 projets réalisés en Python, Java, SQL, C, OCaml, Coq, HTML/CSS/JS. Ces projets couvrent divers domaines comme l'analyse de données, l'intelligence artificielle, les algorithmes, la cryptographie, les interfaces homme-machine, et bien plus encore.
 
 ---
 
